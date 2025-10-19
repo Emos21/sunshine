@@ -4,4 +4,4 @@ __pycache__/
 data_raw/
 postgres_data/
 venv/
-env.sample
+env.sample/
